@@ -1,0 +1,4 @@
+1001 abc def gpub 10
+1002 ghi jkl spub 12
+1003 mno pqr kpub 100
+1004 stu vwx spub 4
